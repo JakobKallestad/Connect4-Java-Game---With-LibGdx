@@ -1,0 +1,41 @@
+
+Sharingan.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000001
+  rotate: false
+  xy: 2, 2
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: -1
+image0000002
+  rotate: false
+  xy: 204, 2
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: -1
+image0000003
+  rotate: false
+  xy: 406, 2
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: -1
+image0000004
+  rotate: false
+  xy: 608, 2
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: -1
+image0000005
+  rotate: false
+  xy: 810, 2
+  size: 200, 150
+  orig: 200, 150
+  offset: 0, 0
+  index: -1

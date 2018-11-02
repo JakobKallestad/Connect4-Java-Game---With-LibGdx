@@ -1,0 +1,11 @@
+MLGFilter:
+
+This was basically something I just added to the complete already working normal version of the game. I made this for two reasons:
+
+1. It was fun.
+2. To learn about animation in libGdx.
+
+I definitely learned a lot about animations, and it was a bit harder than i originally thought.
+I also tried to make the mlg-part like an add-on, so that the modularity in the program was kept and not a huge amount of code had to be rewritten.
+It was difficult to not rewrite at least a bit of code in the original GameScreen, but I tried to keep it low on lines.
+

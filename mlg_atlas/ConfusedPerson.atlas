@@ -1,0 +1,472 @@
+
+ConfusedPerson.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000010
+  rotate: false
+  xy: 2, 935
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000009
+  rotate: false
+  xy: 2, 935
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000011
+  rotate: false
+  xy: 2, 935
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000014
+  rotate: false
+  xy: 554, 935
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000015
+  rotate: false
+  xy: 1106, 1246
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000016
+  rotate: false
+  xy: 2, 313
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000017
+  rotate: false
+  xy: 554, 624
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000018
+  rotate: false
+  xy: 1106, 935
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000019
+  rotate: false
+  xy: 2, 2
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000031
+  rotate: false
+  xy: 554, 2
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000048
+  rotate: false
+  xy: 554, 313
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000051
+  rotate: false
+  xy: 2, 1557
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000052
+  rotate: false
+  xy: 2, 1246
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000053
+  rotate: false
+  xy: 554, 1557
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000055
+  rotate: false
+  xy: 554, 1246
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000056
+  rotate: false
+  xy: 1106, 1557
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000057
+  rotate: false
+  xy: 2, 624
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000060
+  rotate: false
+  xy: 1106, 624
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000062
+  rotate: false
+  xy: 1106, 313
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000063
+  rotate: false
+  xy: 1106, 2
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+
+ConfusedPerson2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000001
+  rotate: false
+  xy: 554, 935
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000003
+  rotate: false
+  xy: 2, 2
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000020
+  rotate: false
+  xy: 554, 313
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000021
+  rotate: false
+  xy: 2, 1246
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000022
+  rotate: false
+  xy: 554, 1557
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000023
+  rotate: false
+  xy: 2, 935
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000024
+  rotate: false
+  xy: 554, 1246
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000025
+  rotate: false
+  xy: 1106, 1557
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000026
+  rotate: false
+  xy: 2, 624
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000028
+  rotate: false
+  xy: 1106, 1246
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000029
+  rotate: false
+  xy: 2, 313
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000030
+  rotate: false
+  xy: 1106, 624
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000032
+  rotate: false
+  xy: 1106, 313
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000033
+  rotate: false
+  xy: 1106, 2
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000036
+  rotate: false
+  xy: 554, 624
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000059
+  rotate: false
+  xy: 554, 2
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000061
+  rotate: false
+  xy: 1106, 935
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000064
+  rotate: false
+  xy: 2, 1557
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+
+ConfusedPerson3.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000002
+  rotate: false
+  xy: 1106, 1246
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000004
+  rotate: false
+  xy: 1106, 2
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000012
+  rotate: false
+  xy: 554, 1557
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000027
+  rotate: false
+  xy: 554, 935
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000034
+  rotate: false
+  xy: 2, 1557
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000035
+  rotate: false
+  xy: 2, 1246
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000037
+  rotate: false
+  xy: 2, 935
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000038
+  rotate: false
+  xy: 554, 1246
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000039
+  rotate: false
+  xy: 1106, 1557
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000040
+  rotate: false
+  xy: 2, 313
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000041
+  rotate: false
+  xy: 554, 624
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000042
+  rotate: false
+  xy: 1106, 935
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000043
+  rotate: false
+  xy: 2, 2
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000044
+  rotate: false
+  xy: 554, 313
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000045
+  rotate: false
+  xy: 1106, 624
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000046
+  rotate: false
+  xy: 554, 2
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000047
+  rotate: false
+  xy: 1106, 313
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000049
+  rotate: false
+  xy: 2, 624
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+
+ConfusedPerson4.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000005
+  rotate: false
+  xy: 2, 624
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000006
+  rotate: false
+  xy: 2, 313
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000007
+  rotate: false
+  xy: 554, 624
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000008
+  rotate: false
+  xy: 2, 2
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000013
+  rotate: false
+  xy: 554, 313
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000050
+  rotate: false
+  xy: 1106, 313
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000054
+  rotate: false
+  xy: 554, 2
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1
+image0000058
+  rotate: false
+  xy: 1106, 624
+  size: 550, 309
+  orig: 550, 309
+  offset: 0, 0
+  index: -1

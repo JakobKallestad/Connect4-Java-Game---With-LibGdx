@@ -1,0 +1,76 @@
+
+Eyebrows.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000001
+  rotate: false
+  xy: 2, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+image0000010
+  rotate: false
+  xy: 2, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+image0000002
+  rotate: false
+  xy: 249, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+image0000009
+  rotate: false
+  xy: 249, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+image0000003
+  rotate: false
+  xy: 496, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+image0000008
+  rotate: false
+  xy: 496, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+image0000004
+  rotate: false
+  xy: 743, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+image0000007
+  rotate: false
+  xy: 743, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+image0000005
+  rotate: false
+  xy: 990, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+image0000006
+  rotate: false
+  xy: 990, 2
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1

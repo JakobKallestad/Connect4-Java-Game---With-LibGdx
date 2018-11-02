@@ -1,0 +1,23 @@
+Rettet av
+    Knut Anders Stokke,
+    caz003@student.uib.no
+
+Generelt: Veldig kjekt å rette! Godt jobbet!
+
+Funksjonalitet: Wow.
++5 For imponerende grafikk!
+
+Testing: Gøy å lese erfaringene dine fra testingen. Det er et kjent problem at tester passerer selv om koden ikke fungerer, bra at du ikke ga deg! Kult at testene dine oppdaget feil etterhvert som du kodet - da har du virkelig skrevet gode tester! Jeg er enig i at det ikke alt som er verdt å teste, som f.eks. grafikken. Men du skriver at du selv har kjørt programmet så mange ganger at du ville ha oppdaget feil - dette er ikke et argument for å ikke skrive tester. Testene skal blant annet hindre deg i å introdusere bugs i koden når du utvikler videre, i stedet for at du hele tiden må kjøre programmet og teste ut ting selv :-)
+
+Dok/Readme: Godt jobbet! Du skriver om implementasjons- og designvalgene dine, og om erfaringene dine med prosjektet. Jeg har omtrent kunnet basere hele rettingen bare på det du har skrevet her, for så å kjapt se gjennom koden og kjøre programmet for å se at det stemmer.
+
+Design: Dette er bare veldig imponerende! En ting du kunne prøvd (som er forbi INF101-pensum), er å abstrahere vekk grafikken, slik at Game-klassen f.eks. tok i mot en IGraphicableBoard, og snakket med grafikken gjennom den. Da kunne du enkelt byttet ut grafikken med en annen implementasjon, f.eks. terminalgrafikken din.
++5 for å ha abstrahert ut rules.
+
+25/20 Funksjonalitet
+20/20 Testing
+10/10 Dok/Readme
+55/50 Design
+
+Poeng: 110/100
+

@@ -1,0 +1,480 @@
+
+QuickScope6.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000001
+  rotate: false
+  xy: 2, 2
+  size: 498, 431
+  orig: 1280, 720
+  offset: 574, 0
+  index: -1
+image0000002
+  rotate: false
+  xy: 2, 724
+  size: 498, 431
+  orig: 1280, 720
+  offset: 574, 0
+  index: -1
+
+QuickScope62.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000003
+  rotate: false
+  xy: 2, 2
+  size: 498, 431
+  orig: 1280, 720
+  offset: 574, 0
+  index: -1
+image0000004
+  rotate: false
+  xy: 2, 724
+  size: 498, 431
+  orig: 1280, 720
+  offset: 575, 0
+  index: -1
+
+QuickScope63.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000005
+  rotate: false
+  xy: 2, 2
+  size: 497, 430
+  orig: 1280, 720
+  offset: 575, 0
+  index: -1
+image0000006
+  rotate: false
+  xy: 2, 724
+  size: 498, 430
+  orig: 1280, 720
+  offset: 576, 0
+  index: -1
+
+QuickScope64.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000007
+  rotate: false
+  xy: 2, 2
+  size: 502, 429
+  orig: 1280, 720
+  offset: 580, 0
+  index: -1
+image0000008
+  rotate: false
+  xy: 2, 724
+  size: 507, 427
+  orig: 1280, 720
+  offset: 583, 0
+  index: -1
+
+QuickScope65.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000009
+  rotate: false
+  xy: 2, 2
+  size: 512, 427
+  orig: 1280, 720
+  offset: 588, 0
+  index: -1
+image0000010
+  rotate: false
+  xy: 2, 724
+  size: 506, 420
+  orig: 1280, 720
+  offset: 592, 0
+  index: -1
+
+QuickScope66.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000011
+  rotate: false
+  xy: 2, 2
+  size: 502, 416
+  orig: 1280, 720
+  offset: 591, 0
+  index: -1
+image0000012
+  rotate: false
+  xy: 2, 724
+  size: 500, 416
+  orig: 1280, 720
+  offset: 590, 0
+  index: -1
+
+QuickScope67.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000013
+  rotate: false
+  xy: 2, 2
+  size: 498, 415
+  orig: 1280, 720
+  offset: 589, 0
+  index: -1
+image0000014
+  rotate: false
+  xy: 2, 724
+  size: 496, 416
+  orig: 1280, 720
+  offset: 587, 0
+  index: -1
+
+QuickScope68.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000015
+  rotate: false
+  xy: 2, 2
+  size: 495, 417
+  orig: 1280, 720
+  offset: 585, 0
+  index: -1
+image0000016
+  rotate: false
+  xy: 2, 724
+  size: 487, 417
+  orig: 1280, 720
+  offset: 589, 0
+  index: -1
+
+QuickScope69.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000017
+  rotate: false
+  xy: 2, 2
+  size: 496, 421
+  orig: 1280, 720
+  offset: 581, 0
+  index: -1
+image0000018
+  rotate: false
+  xy: 2, 724
+  size: 497, 423
+  orig: 1280, 720
+  offset: 580, 0
+  index: -1
+
+QuickScope610.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000019
+  rotate: false
+  xy: 2, 2
+  size: 495, 425
+  orig: 1280, 720
+  offset: 581, 0
+  index: -1
+image0000020
+  rotate: false
+  xy: 2, 724
+  size: 489, 415
+  orig: 1280, 720
+  offset: 579, 0
+  index: -1
+
+QuickScope611.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000021
+  rotate: false
+  xy: 2, 2
+  size: 507, 424
+  orig: 1280, 720
+  offset: 560, 0
+  index: -1
+image0000022
+  rotate: false
+  xy: 2, 724
+  size: 524, 460
+  orig: 1280, 720
+  offset: 534, 0
+  index: -1
+
+QuickScope612.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000023
+  rotate: false
+  xy: 2, 2
+  size: 533, 517
+  orig: 1280, 720
+  offset: 512, 0
+  index: -1
+image0000024
+  rotate: false
+  xy: 2, 724
+  size: 581, 675
+  orig: 1280, 720
+  offset: 433, 0
+  index: -1
+
+QuickScope613.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000025
+  rotate: false
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+image0000026
+  rotate: false
+  xy: 2, 724
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+
+QuickScope614.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000027
+  rotate: false
+  xy: 2, 2
+  size: 645, 720
+  orig: 1280, 720
+  offset: 361, 0
+  index: -1
+image0000028
+  rotate: false
+  xy: 2, 724
+  size: 566, 659
+  orig: 1280, 720
+  offset: 443, 0
+  index: -1
+
+QuickScope615.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000029
+  rotate: false
+  xy: 2, 2
+  size: 495, 512
+  orig: 1280, 720
+  offset: 505, 0
+  index: -1
+image0000030
+  rotate: false
+  xy: 2, 724
+  size: 627, 462
+  orig: 1280, 720
+  offset: 522, 0
+  index: -1
+
+QuickScope616.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000031
+  rotate: false
+  xy: 2, 2
+  size: 738, 433
+  orig: 1280, 720
+  offset: 542, 0
+  index: -1
+image0000032
+  rotate: false
+  xy: 2, 724
+  size: 726, 413
+  orig: 1280, 720
+  offset: 554, 0
+  index: -1
+
+QuickScope617.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000033
+  rotate: false
+  xy: 2, 2
+  size: 715, 406
+  orig: 1280, 720
+  offset: 565, 0
+  index: -1
+image0000034
+  rotate: false
+  xy: 2, 724
+  size: 704, 410
+  orig: 1280, 720
+  offset: 576, 0
+  index: -1
+
+QuickScope618.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000035
+  rotate: false
+  xy: 2, 2
+  size: 696, 422
+  orig: 1280, 720
+  offset: 584, 0
+  index: -1
+image0000036
+  rotate: false
+  xy: 2, 724
+  size: 702, 436
+  orig: 1280, 720
+  offset: 578, 0
+  index: -1
+
+QuickScope619.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000037
+  rotate: false
+  xy: 2, 2
+  size: 710, 448
+  orig: 1280, 720
+  offset: 570, 0
+  index: -1
+image0000038
+  rotate: false
+  xy: 2, 724
+  size: 552, 449
+  orig: 1280, 720
+  offset: 566, 0
+  index: -1
+
+QuickScope620.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000039
+  rotate: false
+  xy: 2, 2
+  size: 716, 447
+  orig: 1280, 720
+  offset: 564, 0
+  index: -1
+image0000040
+  rotate: false
+  xy: 2, 724
+  size: 715, 443
+  orig: 1280, 720
+  offset: 565, 0
+  index: -1
+
+QuickScope621.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000041
+  rotate: false
+  xy: 2, 2
+  size: 573, 441
+  orig: 1280, 720
+  offset: 563, 0
+  index: -1
+image0000042
+  rotate: false
+  xy: 2, 724
+  size: 574, 438
+  orig: 1280, 720
+  offset: 567, 0
+  index: -1
+
+QuickScope622.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000043
+  rotate: false
+  xy: 2, 2
+  size: 697, 433
+  orig: 1280, 720
+  offset: 583, 0
+  index: -1
+image0000044
+  rotate: false
+  xy: 2, 724
+  size: 664, 430
+  orig: 1280, 720
+  offset: 584, 0
+  index: -1
+
+QuickScope623.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000045
+  rotate: false
+  xy: 2, 2
+  size: 633, 416
+  orig: 1280, 720
+  offset: 581, 0
+  index: -1
+image0000046
+  rotate: false
+  xy: 2, 724
+  size: 588, 400
+  orig: 1280, 720
+  offset: 588, 0
+  index: -1
+
+QuickScope624.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000047
+  rotate: false
+  xy: 2, 2
+  size: 513, 387
+  orig: 1280, 720
+  offset: 595, 0
+  index: -1
+image0000048
+  rotate: false
+  xy: 2, 724
+  size: 502, 389
+  orig: 1280, 720
+  offset: 596, 0
+  index: -1

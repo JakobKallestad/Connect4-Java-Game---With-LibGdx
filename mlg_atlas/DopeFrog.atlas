@@ -1,0 +1,76 @@
+
+DopeFrog.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000001
+  rotate: false
+  xy: 2, 866
+  size: 500, 430
+  orig: 500, 430
+  offset: 0, 0
+  index: -1
+image0000002
+  rotate: false
+  xy: 504, 1298
+  size: 500, 430
+  orig: 500, 430
+  offset: 0, 0
+  index: -1
+image0000003
+  rotate: false
+  xy: 2, 434
+  size: 500, 430
+  orig: 500, 430
+  offset: 0, 0
+  index: -1
+image0000004
+  rotate: false
+  xy: 504, 866
+  size: 500, 430
+  orig: 500, 430
+  offset: 0, 0
+  index: -1
+image0000005
+  rotate: false
+  xy: 1006, 1298
+  size: 500, 430
+  orig: 500, 430
+  offset: 0, 0
+  index: -1
+image0000006
+  rotate: false
+  xy: 2, 2
+  size: 500, 430
+  orig: 500, 430
+  offset: 0, 0
+  index: -1
+image0000007
+  rotate: false
+  xy: 504, 434
+  size: 500, 430
+  orig: 500, 430
+  offset: 0, 0
+  index: -1
+image0000008
+  rotate: false
+  xy: 1006, 866
+  size: 500, 430
+  orig: 500, 430
+  offset: 0, 0
+  index: -1
+image0000009
+  rotate: false
+  xy: 1508, 1298
+  size: 500, 430
+  orig: 500, 430
+  offset: 0, 0
+  index: -1
+image0000010
+  rotate: false
+  xy: 2, 1298
+  size: 500, 430
+  orig: 500, 430
+  offset: 0, 0
+  index: -1

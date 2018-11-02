@@ -1,0 +1,48 @@
+
+GirlRunning.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+image0000001
+  rotate: false
+  xy: 2, 754
+  size: 500, 750
+  orig: 500, 750
+  offset: 0, 0
+  index: -1
+image0000002
+  rotate: false
+  xy: 2, 2
+  size: 500, 750
+  orig: 500, 750
+  offset: 0, 0
+  index: -1
+image0000003
+  rotate: false
+  xy: 504, 754
+  size: 500, 750
+  orig: 500, 750
+  offset: 0, 0
+  index: -1
+image0000004
+  rotate: false
+  xy: 504, 2
+  size: 500, 750
+  orig: 500, 750
+  offset: 0, 0
+  index: -1
+image0000005
+  rotate: false
+  xy: 1006, 754
+  size: 500, 750
+  orig: 500, 750
+  offset: 0, 0
+  index: -1
+image0000006
+  rotate: false
+  xy: 1006, 2
+  size: 500, 750
+  orig: 500, 750
+  offset: 0, 0
+  index: -1
