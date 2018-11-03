@@ -1,3 +1,6 @@
+Man kjører spillet ved å kjøre Main.jar
+
+
 # [Semesteroppgave 2: “Fire på rad”](https://retting.ii.uib.no/inf101.v18.sem2/blob/master/SEM-2.md)
 
 
